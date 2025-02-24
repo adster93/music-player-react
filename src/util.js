@@ -6,7 +6,7 @@ function chillHop() {
       cover:
         "https://cdn2.suno.ai/image_large_510e547b-77cf-4717-b34f-9e1725ed2da3.jpeg",
       artist: "Aso, Middle School, Aviino",
-      audio: "https://mp3.chillhop.com/serve.php/?mp3=10075",
+      audio: "https://cdn1.suno.ai/fb396456-50ee-4e3a-a121-d63af6d0abe9.mp3",
       color: ["#205950", "#2ab3bf"],
       id: uuidv4(),
       active: true,
@@ -16,7 +16,7 @@ function chillHop() {
       cover:
         "https://cdn2.suno.ai/image_large_510e547b-77cf-4717-b34f-9e1725ed2da3.jpeg",
       artist: "Aiguille",
-      audio: "https://mp3.chillhop.com/serve.php/?mp3=9272",
+      audio: "https://cdn1.suno.ai/fb396456-50ee-4e3a-a121-d63af6d0abe9.mp3",
       color: ["#EF8EA9", "#ab417f"],
       id: uuidv4(),
       active: false,
@@ -26,7 +26,7 @@ function chillHop() {
       cover:
         "https://cdn2.suno.ai/image_large_510e547b-77cf-4717-b34f-9e1725ed2da3.jpeg",
       artist: "Swørn",
-      audio: "https://mp3.chillhop.com/serve.php/?mp3=9222",
+      audio: "https://cdn1.suno.ai/fb396456-50ee-4e3a-a121-d63af6d0abe9.mp3",
       color: ["#CD607D", "#c94043"],
       id: uuidv4(),
       active: false,
@@ -36,7 +36,7 @@ function chillHop() {
       cover:
         "https://cdn2.suno.ai/image_large_510e547b-77cf-4717-b34f-9e1725ed2da3.jpeg",
       artist: "Aiguille",
-      audio: "https://mp3.chillhop.com/serve.php/?mp3=9148",
+      audio: "https://cdn1.suno.ai/fb396456-50ee-4e3a-a121-d63af6d0abe9.mp3",
       color: ["#EF8EA9", "#ab417f"],
       id: uuidv4(),
       active: false,
@@ -46,7 +46,7 @@ function chillHop() {
       cover:
         "https://cdn2.suno.ai/image_large_510e547b-77cf-4717-b34f-9e1725ed2da3.jpeg",
       artist: "Swørn",
-      audio: "https://mp3.chillhop.com/serve.php/?mp3=9228",
+      audio: "https://cdn1.suno.ai/fb396456-50ee-4e3a-a121-d63af6d0abe9.mp3",
       color: ["#CD607D", "#c94043"],
       id: uuidv4(),
       active: false,
@@ -56,7 +56,7 @@ function chillHop() {
       cover:
         "https://cdn2.suno.ai/image_large_510e547b-77cf-4717-b34f-9e1725ed2da3.jpeg",
       artist: "Aso, Middle School, Aviino",
-      audio: "https://mp3.chillhop.com/serve.php/?mp3=10074",
+      audio: "https://cdn1.suno.ai/fb396456-50ee-4e3a-a121-d63af6d0abe9.mp3",
       color: ["#205950", "#2ab3bf"],
       id: uuidv4(),
       active: false,
